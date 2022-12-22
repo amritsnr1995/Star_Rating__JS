@@ -1,0 +1,22 @@
+.stars ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+.star {
+    display: inline-block;
+    font-size: 2em;
+    color:#ddd;
+}
+.output {
+    background-color: #ddd;
+    border: 1px solid #eee;
+    margin: 50px 0;
+    padding: 10px;
+}
+.yellow{
+    color:yellow;
+}
+.orange{
+    color:orange;
+}
